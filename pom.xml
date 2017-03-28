@@ -60,6 +60,7 @@
         <module>jmx</module>
         <module>learning-basics</module>
         <module>mapreduce</module>
+        <module>microservices</module>
         <module>monitoring</module>
         <module>network-configuration</module>
         <module>osgi</module>
